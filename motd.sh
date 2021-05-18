@@ -36,7 +36,7 @@ function next_motd() {
     AUTHOR=$(echo $line | sed -r 's/(".+" )//g')
 }
 
-if [ $MODE == "notify" ]; then
+if [[ $MODE == "notify" ]]; then
     notify_print
 else
 	console_print
