@@ -277,7 +277,7 @@
 "We can change our lives. We can do, have, and be exactly what we wish." --Tony Robbins
 "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light." --Plato
 "Know the true value of time; snatch, seize, and enjoy every moment of it." --Lord Chesterfield
-"Never doubt that a small group of thoughtful committed citizens can change the world. Indeed, it is the only thing that ever has -Margaret Mead
+"Never doubt that a small group of thoughtful committed citizens can change the world. Indeed, it is the only thing that ever has." --Margaret Mead
 "We convince by our presence." --Walt Whitman
 "We don't stop playing because we grow old; we grow old because we stop playing." --George Bernard Shaw
 "A lot of the time the experts, the people who are supposed to be able to tell you what to do, will tell you that you can't do something even when you know you can. And a lot of the time it's your friends... who tell you you can do it." --Mark Zuckerberg
@@ -697,3 +697,4 @@
 "What would you attempt to do if you knew you would not fail?" --Robert Schuller 
 "An optimist stays up until midnight to see the new year in. A pessimist stays up to make sure the old year leaves." --Bill Vaughn
 "There is life before death." --Monika Medvedík Beňová
+"Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers." --Socrates
