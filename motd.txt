@@ -698,3 +698,4 @@
 "An optimist stays up until midnight to see the new year in. A pessimist stays up to make sure the old year leaves." --Bill Vaughn
 "There is life before death." --Monika Medvedík Beňová
 "Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers." --Socrates
+"A lie can travel half way around the world while the truth is putting on its shoes." --Mark Twain
